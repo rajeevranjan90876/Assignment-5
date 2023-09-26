@@ -1,0 +1,3 @@
+Favicon - A favicon is a tiny graphic symbol or icon, typically 16x16 pixels in size, though it can also be 32x32 pixels, that represents a website or web page.
+        It is displayed in web browser tabs, bookmark lists, and other browser interface elements to help users identify and recognize websites quickly.
+
